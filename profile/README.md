@@ -1,1 +1,1 @@
-![](../src/Favicon2.png)
+![](https://github.com/Trojan-Riders/.github/blob/master/src/Favicon2.png?raw=true)
