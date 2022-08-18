@@ -1,0 +1,1 @@
+![](../src/Favicon2.png)
