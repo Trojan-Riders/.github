@@ -9,4 +9,4 @@ They are always learning and looking forward for the next Challenge.
 ## Hackathon and Results
 | Name | Problem Statement | Proposed Solution | Rank |
 |-------|-------------------|--------------------|------|
-| Web D Verse | [Diilli Darbar Times](../src/WebDVerse.pdf) | [Solution](https://github.com/Trojan-Riders/dilli-darbar-times) | 20/100 |
+| Web D Verse | [Diilli Darbar Times](../src/WebDVerse.pdf) | [Solution](https://trojan-riders.github.io/diilli-darbar-times/) | 20/100 |
