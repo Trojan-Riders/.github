@@ -7,6 +7,7 @@ They are always learning and looking forward for the next Challenge.
 - [Dwaipayan Mazumder](https://github.com/Dwaipayan-Maz)
 - [Soumyadeep Mukherjee](https://github.com/SoumyadeepMukherjee)
 ## Hackathon and Results
-| Name | Problem Statement | Proposed Solution | Rank |
-|-------|-------------------|--------------------|------|
-| Web D Verse | [Diilli Darbar Times](../src/WebDVerse.pdf) | [Solution](https://trojan-riders.github.io/diilli-darbar-times/) | 20/100 |
+| Name | Proposed Solution | Rank |
+|------|--------------------|------|
+| Web D Verse | [Solution](https://trojan-riders.github.io/diilli-darbar-times/) | 20/100 |
+| What the Hack | [Solution](https://trojan-riders.github.io/Trojan-Emergency-Response/) | Top 70 / 300+ |
