@@ -9,5 +9,5 @@ They are always learning and looking forward for the next Challenge.
 ## Hackathon and Results
 | Name | Proposed Solution | Rank |
 |------|--------------------|------|
-| Web D Verse | [Problem Statement](https://github.com/Trojan-Riders/.github/blob/master/src/WebDVerse.pdf) | [Solution](https://trojan-riders.github.io/diilli-darbar-times/) | 20/100 |
-| What the Hack | [Problem Statement]() | [Solution](https://trojan-riders.github.io/Trojan-Emergency-Response/) | Top 70 / 300+ |
+| Web D Verse (20/146) | [Problem Statement](https://github.com/Trojan-Riders/.github/blob/master/src/WebDVerse.pdf) | [Solution](https://trojan-riders.github.io/diilli-darbar-times/) |
+| What the Hack (Top 70/ 300+) | [Problem Statement](https://github.com/Trojan-Riders/.github/blob/master/src/WhatTheHack.pdf) | [Solution](https://trojan-riders.github.io/Trojan-Emergency-Response/) |
