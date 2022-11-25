@@ -11,3 +11,4 @@ They are always learning and looking forward for the next Challenge.
 |------|--------------------|------|
 | Web D Verse (20/146) | [Problem Statement](https://github.com/Trojan-Riders/.github/blob/master/src/WebDVerse.pdf) | [Solution](https://trojan-riders.github.io/diilli-darbar-times/) |
 | What the Hack (Top 70/ 300+) | [Problem Statement](https://github.com/Trojan-Riders/.github/blob/master/src/WhatTheHack.pdf) | [Solution](https://trojan-riders.github.io/Trojan-Emergency-Response/) |
+| Inspirathon 2.0 (Top 5/500+) | [Problem Statement]() | [Solution]() |
